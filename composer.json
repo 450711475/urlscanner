@@ -1,5 +1,5 @@
 {
-    "name": "test/urlscanner",
+    "name": "xiaotanzi/urlscanner",
     "require": {
         "php": ">=5.4.0",
         "guzzlehttp/guzzle": "~5.0"

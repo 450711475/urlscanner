@@ -1,5 +1,5 @@
 <?php
-namespace test\urlscanner\Url;
+namespace xiaotanzi\urlscanner\Url;
 
 use GuzzleHttp\Client;
 
