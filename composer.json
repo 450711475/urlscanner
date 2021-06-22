@@ -1,0 +1,23 @@
+{
+    "name": "test/urlscanner",
+    "require": {
+        "php": ">=5.4.0",
+        "guzzlehttp/guzzle": "~5.0"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "~4.3"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Test\\Urlscanner\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "tfs6667",
+            "email": "450711475@qq.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
